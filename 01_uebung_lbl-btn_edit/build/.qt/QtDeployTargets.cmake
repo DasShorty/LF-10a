@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_uebung_lbl_btn_edit_FILE /home/anthony/Dokumente/lf110a/01_uebung_lbl-btn_edit/build/uebung_lbl_btn_edit)
+set(__QT_DEPLOY_TARGET_uebung_lbl_btn_edit_TYPE EXECUTABLE)
